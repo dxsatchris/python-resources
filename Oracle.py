@@ -2,7 +2,7 @@
 # -*- coding: utf-8
 
 # @uthor: XXX
-# class utulity: request DTM Oracle database
+# class utulity: request Oracle database
 # version: 30/05/2018
 # 
 # rbo : 10/01/2019 adding execute_select_query2
